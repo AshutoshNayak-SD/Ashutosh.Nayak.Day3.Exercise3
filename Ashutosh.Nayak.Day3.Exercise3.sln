@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ashutosh.Nayak.Day3.Exercise3", "Ashutosh.Nayak.Day3.Exercise3.csproj", "{9E5D7179-4B50-4529-A0BA-C21F464EDE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ashutosh.Nayak.Day3.Calculator", "..\Ashutosh.Nayak.Day3.Calculator\Ashutosh.Nayak.Day3.Calculator.csproj", "{D3A313A0-058F-40AA-8F0D-4498E407E41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5D7179-4B50-4529-A0BA-C21F464EDE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5D7179-4B50-4529-A0BA-C21F464EDE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5D7179-4B50-4529-A0BA-C21F464EDE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5D7179-4B50-4529-A0BA-C21F464EDE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A313A0-058F-40AA-8F0D-4498E407E41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A313A0-058F-40AA-8F0D-4498E407E41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A313A0-058F-40AA-8F0D-4498E407E41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A313A0-058F-40AA-8F0D-4498E407E41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {314992E2-8368-462B-8B97-4C9BB255EE3B}
+	EndGlobalSection
+EndGlobal
